@@ -1,0 +1,8 @@
+[2025-06-17T07:02:25.563172+00:00] user: The call has been answered. Please introduce yourself and state the purpose of your call.
+[2025-06-17T07:02:27.984+00:00] assistant: Hello! This is Alexa calling. May I know your name, please? And if you don't mind sharing, could you tell me your nationality?
+[2025-06-17T07:02:37.282+00:00] user: Alexa.
+[2025-06-17T07:02:39.205+00:00] assistant: Hi there! Nice to meet you. What's your name?
+[2025-06-17T07:02:47.008+00:00] user: My name is Aman and I'm an Indian.
+[2025-06-17T07:02:48.708+00:00] assistant: Great to meet you, Aman! How's your day going?
+[2025-06-17T07:02:55.008+00:00] user: You can turn the call now. Can you wait?
+[2025-06-17T07:02:57.023+00:00] assistant: Of course, Aman! Take your time. I'll be right here.

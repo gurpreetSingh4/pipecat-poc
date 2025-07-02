@@ -1,0 +1,14 @@
+[project]
+name = "pipecat-testing"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi>=0.115.12",
+    "pipecat-ai[deepgram,elevenlabs,openai]>=0.0.71",
+    "python-dotenv>=1.1.0",
+    "python-multipart>=0.0.20",
+    "twilio>=9.6.3",
+    "uvicorn[standard]>=0.34.3",
+]

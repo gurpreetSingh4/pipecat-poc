@@ -1,0 +1,2 @@
+[2025-07-02T08:00:33.488557+00:00] user: The call has been answered. Please introduce yourself and state the purpose of your call.
+[2025-07-02T08:00:38.647+00:00] assistant: Hello! This is Alexa calling. I hope you're well. May I know your name and nationality, please?
